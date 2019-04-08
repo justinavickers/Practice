@@ -1,0 +1,11 @@
+C:\Users\justi\workspace\csharp\starwars\obj\Debug\netcoreapp2.2\starwars.csprojAssemblyReference.cache
+C:\Users\justi\workspace\csharp\starwars\obj\Debug\netcoreapp2.2\starwars.csproj.CoreCompileInputs.cache
+C:\Users\justi\workspace\csharp\starwars\obj\Debug\netcoreapp2.2\starwars.AssemblyInfoInputs.cache
+C:\Users\justi\workspace\csharp\starwars\obj\Debug\netcoreapp2.2\starwars.AssemblyInfo.cs
+C:\Users\justi\workspace\csharp\starwars\bin\Debug\netcoreapp2.2\starwars.deps.json
+C:\Users\justi\workspace\csharp\starwars\bin\Debug\netcoreapp2.2\starwars.runtimeconfig.json
+C:\Users\justi\workspace\csharp\starwars\bin\Debug\netcoreapp2.2\starwars.runtimeconfig.dev.json
+C:\Users\justi\workspace\csharp\starwars\bin\Debug\netcoreapp2.2\starwars.dll
+C:\Users\justi\workspace\csharp\starwars\bin\Debug\netcoreapp2.2\starwars.pdb
+C:\Users\justi\workspace\csharp\starwars\obj\Debug\netcoreapp2.2\starwars.dll
+C:\Users\justi\workspace\csharp\starwars\obj\Debug\netcoreapp2.2\starwars.pdb
